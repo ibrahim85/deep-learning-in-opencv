@@ -3,7 +3,7 @@
 
 ## Some Computer Vision Tasks
 ### Classificaiton
-[![screenshot](./tutorial_images/jiaozhou.png)]()
+[![screenshot](tutorial_images/jiaozhou.png)]()
 
 
 ### Segmentation
