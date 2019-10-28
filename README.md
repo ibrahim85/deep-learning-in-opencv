@@ -3,8 +3,8 @@
 
 ## Some Computer Vision Tasks
 ### Classificaiton
-[![screenshot](https://github.com/TaiChiTiger/deep-learning-in-opencv/blob/master/tutorial_images/panda.png)]()
-
+[![screenshot](tutorial_images/blurred_context.png)]()
+![alt text](tutorial_images/blurred_context.png)
 
 ### Segmentation
 
