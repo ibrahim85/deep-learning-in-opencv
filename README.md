@@ -3,12 +3,10 @@
 
 ## Some Computer Vision Tasks
 ### Classificaiton
-[![screenshot](blurred_context.png)]()
-![alt text](tutorial_images/blurred_context.png)
-
-![Alt text](tutorial_images/blurred_context.png?raw=true "Title")
+![alt text](tutorial_images/panda.png)
 
 ### Segmentation
+![alt text](tutorial_images/blurred_context.png)
 
 ### Object Detection
 
