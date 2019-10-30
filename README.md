@@ -9,7 +9,10 @@
 ![alt text](tutorial_images/blurred_context.png)
 
 ### Object Detection
+![alt text](tutorial_images/road_scene.png)
 
 ### Face Detection
+![alt text](tutorial_images/girl_face.png)
 
 ### Pose Estimation
+![alt text](tutorial_images/human_pose.png)
