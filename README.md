@@ -12,7 +12,7 @@
 ![alt text](tutorial_images/road_scene.png)
 
 ### Face Detection
-![alt text](https://github.com/TaiChiTiger/deep-learning-in-opencv/blob/master/tutorial_images/girl_faces.gif)
+![alt text](tutorial_images/girl_face.png)
 
 ### Pose Estimation
 ![alt text](tutorial_images/human_pose.png)
