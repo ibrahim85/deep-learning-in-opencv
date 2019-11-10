@@ -12,7 +12,7 @@
 ![alt text](tutorial_images/road_scene.png)
 
 ### Face Detection
-![alt text](tutorial_images/girl_face.png)
+![alt text](tutorial_images/yunnan.gif)
 
 ### Pose Estimation
 ![alt text](tutorial_images/human_pose.png)
